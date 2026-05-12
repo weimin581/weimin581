@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, My publications
 1. [First Author, CCF-B Pattern Recognition] Weighted side-window based gradient guided image filtering
 2. [First Author, CCF-B Neural Networks] Image restoration driven by dual-scale prior
 3. [First Author, CCF-B Computer Vision and Image Understanding] Guided image filtering-conventional to deep models: A review and evaluation study
