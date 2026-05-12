@@ -12,6 +12,8 @@
 | 2025 | *Image restoration driven by dual-scale prior* | Neural Networks(CCF-B)| [PDF](https://www.sciencedirect.com/science/article/pii/S0893608025010184) |
 | 2025 | *Guided image filtering-conventional to deep models: A review and evaluation study* | Computer Vision and Image Understanding(CCF-B)| [PDF](https://www.sciencedirect.com/science/article/pii/S1077314225000013) |
 | 2024 | *Simultaneous image denoising and completion through convolutional sparse representation and nonlocal self-similarity* | Computer Vision and Image Understanding(CCF-B)| [PDF](https://www.sciencedirect.com/science/article/pii/S1077314224002972) |
+| 2021 | *Efficient local stereo matching algorithm based on fast gradient domain guided image filtering* | Computer Vision and Image Understanding(CCF-B)| [PDF](https://www.sciencedirect.com/science/article/pii/S0923596521001181) |
+| 2024 | *Simultaneous image denoising and completion through convolutional sparse representation and nonlocal self-similarity* | Computer Vision and Image Understanding(CCF-B)| [PDF](https://www.sciencedirect.com/science/article/pii/S1077314224002972) |
 
 <!--
 **weimin581/weimin581** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
