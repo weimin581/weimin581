@@ -8,8 +8,8 @@
 
 | 年份 | 标题 | 会议/期刊 | 链接 |
 | :--- | :--- | :--- | :--- |
-| 2023 | *Deep Learning for NLP* | CVPR | [PDF](https://www.sciencedirect.com/science/article/pii/S0031320323007033) |
-| 2022 | *Graph Neural Networks* | Nature | [DOI](链接) |
+| 2024 | *Weighted side-window based gradient guided image filtering* | Pattern Recognition | [PDF](https://www.sciencedirect.com/science/article/pii/S0031320323007033) |
+| 2025 | *Image restoration driven by dual-scale prior* | Neural Networks | [DOI]([链接](https://www.sciencedirect.com/science/article/pii/S0893608025010184)) |
 
 <!--
 **weimin581/weimin581** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
