@@ -10,7 +10,7 @@
 | 2024 | *Weighted side-window based gradient guided image filtering* | Pattern Recognition(CCF-B)| [📄 PDF](https://www.sciencedirect.com/science/article/pii/S0031320323007033) |
 | 2024 | *Simultaneous image denoising and completion through convolutional sparse representation and nonlocal self-similarity* | Computer Vision and Image Understanding(CCF-B)| [📄 PDF](https://www.sciencedirect.com/science/article/pii/S1077314224002972) |
 | 2024 | *Mixed degradation image restoration via deep image prior empowered by deep denoising engine* | International Joint Conference on Neural Networks (IJCNN)(CCF-C)| [📄 PDF](https://ieeexplore.ieee.org/document/10650215) |
-| 2021 | *Efficient local stereo matching algorithm based on fast gradient domain guided image filtering* | Computer Vision and Image Understanding(CCF-C)| [📄 PDF](https://www.sciencedirect.com/science/article/pii/S0923596521001181) |
+| 2021 | *Efficient local stereo matching algorithm based on fast gradient domain guided image filtering* | Signal Processing: Image Communication(CCF-C)| [📄 PDF](https://www.sciencedirect.com/science/article/pii/S0923596521001181) |
 
 <!--
 **weimin581/weimin581** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
