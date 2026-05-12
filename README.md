@@ -1,4 +1,10 @@
 ## Hi there 👋
+1. Weighted side-window based gradient guided image filtering
+2. Image restoration driven by dual-scale prior
+3. Guided image filtering-conventional to deep models: A review and evaluation study
+4. Simultaneous image denoising and completion through convolutional sparse representation and nonlocal self-similarity
+
+
 
 <!--
 **weimin581/weimin581** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
