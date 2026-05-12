@@ -2,7 +2,7 @@
 
 ### 📚 Publications (First Author)
 
-| 年份 | 标题 | 会议/期刊 | 链接 |
+| Year | Title | Venue | Link |
 | :--- | :--- | :--- | :--- |
 | 2026 | *Net2Net: When a Deep Untrained Network Meets a Pretrained Network for Image Restoration* |Arxiv| [📄 PDF](https://arxiv.org/pdf/2510.02733) |
 | 2025 | *Image restoration driven by dual-scale prior* | Neural Networks(CCF-B)| [📄 PDF](https://www.sciencedirect.com/science/article/pii/S0893608025010184) |
