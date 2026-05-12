@@ -10,6 +10,7 @@
 | :--- | :--- | :--- | :--- |
 | 2024 | *Weighted side-window based gradient guided image filtering* | Pattern Recognition(CCF-B)| [PDF](https://www.sciencedirect.com/science/article/pii/S0031320323007033) |
 | 2025 | *Image restoration driven by dual-scale prior* | Neural Networks(CCF-B)| [PDF](https://www.sciencedirect.com/science/article/pii/S0893608025010184) |
+| 2025 | *Guided image filtering-conventional to deep models: A review and evaluation study* | Computer Vision and Image Understanding(CCF-B)| [PDF](https://www.sciencedirect.com/science/article/pii/S1077314225000013) |
 
 <!--
 **weimin581/weimin581** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
