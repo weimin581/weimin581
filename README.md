@@ -11,6 +11,11 @@
 | 2024 | *Mixed degradation image restoration via deep image prior empowered by deep denoising engine* | International Joint Conference on Neural Networks (IJCNN)(CCF-C)| [PDF](https://ieeexplore.ieee.org/document/10650215) |
 | 2021 | *Efficient local stereo matching algorithm based on fast gradient domain guided image filtering* | Computer Vision and Image Understanding(CCF-C)| [PDF](https://www.sciencedirect.com/science/article/pii/S0923596521001181) |
 
+| 年份 | 标题 | 会议/期刊 | 链接 |
+| :--- | :--- | :--- | :--- |
+| 2023 | *Deep Learning for NLP* | CVPR | [📄 PDF](https://arxiv.org/pdf/2301.xxxx.pdf) |
+| 2022 | *Graph Neural Networks* | Nature | [🔗 DOI](https://doi.org/10.1038/xxxx) |
+
 <!--
 **weimin581/weimin581** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
