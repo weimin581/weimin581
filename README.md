@@ -1,8 +1,8 @@
 ## Hi there 👋
-[Pattern Recognition] Weighted side-window based gradient guided image filtering
-[Neural Networks] Image restoration driven by dual-scale prior
-[Computer Vision and Image Understanding] Guided image filtering-conventional to deep models: A review and evaluation study
-[Computer Vision and Image Understanding] Simultaneous image denoising and completion through convolutional sparse representation and nonlocal self-similarity
+1. [Pattern Recognition] Weighted side-window based gradient guided image filtering
+2. [Neural Networks] Image restoration driven by dual-scale prior
+3. [Computer Vision and Image Understanding] Guided image filtering-conventional to deep models: A review and evaluation study
+4. [Computer Vision and Image Understanding] Simultaneous image denoising and completion through convolutional sparse representation and nonlocal self-similarity
 
 
 
