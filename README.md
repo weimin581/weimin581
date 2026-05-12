@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Weimin Yuan
 
-### 📚 学术发表 / Publications
+### 📚 Publications (First Author)
 
 | 年份 | 标题 | 会议/期刊 | 链接 |
 | :--- | :--- | :--- | :--- |
