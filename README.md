@@ -1,5 +1,4 @@
 ## Hi there 👋, I'm Weimin Yuan
-- 🔭 I’m currently working on ...
 
 ### 📚 Publications (First Author)
 | Year | Title | Venue | Link |
