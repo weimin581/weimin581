@@ -15,7 +15,8 @@
 | Year | Title | Venue | Link |
 | :--- | :--- | :--- | :--- |
 | 2025 | *3D Venous Anatomy Analysis for Pancreatic Surgery Using Large Vision-Language Model* |IEEE International Conference on Bioinformatics and Biomedicine (BIBM)(CCF-B)| [📄 PDF](https://ieeexplore.ieee.org/abstract/document/11356698) |
-
+| 2025 | *GS2POSE: Marry Gaussian Splatting to 6D Object Pose Estimation* |Arxiv| [📄 PDF]([https://ieeexplore.ieee.org/abstract/document/11356698](https://arxiv.org/pdf/2510.16777)) |
+| 2025 | *Mamba-based deformable medical image registration with an annotated brain MR-CT dataset* |Computerized Medical Imaging and Graphics| [📄 PDF](https://www.sciencedirect.com/science/article/pii/S0895611125000758) |
 
 <!--
 **weimin581/weimin581** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
