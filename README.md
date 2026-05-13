@@ -11,6 +11,7 @@
 | 2024 | *Mixed degradation image restoration via deep image prior empowered by deep denoising engine* | International Joint Conference on Neural Networks (IJCNN)(CCF-C)| [📄 PDF](https://ieeexplore.ieee.org/document/10650215) |
 | 2023 | *Guided image filtering: A survey and evaluation study* | Proceedings of the 5th ACM International Conference on Multimedia in Asia Workshops| [📄 PDF](https://dl.acm.org/doi/abs/10.1145/3611380.3629544) |
 | 2021 | *Efficient local stereo matching algorithm based on fast gradient domain guided image filtering* | Signal Processing: Image Communication(CCF-C)| [📄 PDF](https://www.sciencedirect.com/science/article/pii/S0923596521001181) |
+| 2019 | *Sgm-based disparity estimation under radiometric variations* | Chinese Conference on Image and Graphics Technologies| [📄 PDF](https://link.springer.com/chapter/10.1007/978-981-13-9917-6_37) |
 
 ### 📚 Publications (Non-First Author)
 | Year | Title | Venue | Link |
@@ -20,7 +21,9 @@
 | 2025 | *Mamba-based deformable medical image registration with an annotated brain MR-CT dataset* |Computerized Medical Imaging and Graphics| [📄 PDF](https://www.sciencedirect.com/science/article/pii/S0895611125000758) |
 | 2024 | *SAMIHS: adaptation of segment anything model for intracranial hemorrhage segmentation* |IEEE International Symposium on Biomedical Imaging (ISBI)| [📄 PDF](https://ieeexplore.ieee.org/abstract/document/10635673) |
 | 2024 | *Single view-based pose estimation of unknown circular object with RGB-D camera* |IEEE transactions on aerospace and electronic systems| [📄 PDF](https://ieeexplore.ieee.org/abstract/document/10460199) |
-| 2024 | *Single view-based pose estimation of unknown circular object with RGB-D camera* |IEEE transactions on aerospace and electronic systems| [📄 PDF](https://ieeexplore.ieee.org/abstract/document/10460199) |
+| 2023 | *CoAM-Net: coordinate asymmetric multi-scale fusion strategy for polyp segmentation* |Applied Intelligence| [📄 PDF](https://link.springer.com/article/10.1007/s10489-023-05135-w) |
+| 2023 | *Oscillating saw calibration for mandibular osteotomy robots* |Applied Sciences| [📄 PDF](https://www.mdpi.com/2076-3417/13/17/9773) |
+
 
 
 <!--
